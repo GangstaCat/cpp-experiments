@@ -2,6 +2,10 @@
 #include <math.h>
 using namespace std;
 
+/*
+this was actually made by my fried MS06, and i'm not proud of it
+*/
+
 int main()
 {
   string input;
