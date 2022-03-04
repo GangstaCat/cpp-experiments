@@ -1,4 +1,4 @@
-# C++ Projects
+# C++ Experiments
 Some small C++ projects that I made to get to know the language. Not that complicated, but just enough to stimulate my monkey brain
 
 ## Executables are broken halp
